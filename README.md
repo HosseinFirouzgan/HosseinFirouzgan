@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hossein Firouzgan!
+# 👋 Hi, I'm Hossein!
 
 **Backend Developer in Training**  
 I’m on a quest to become a backend engineer and master the fine art of writing code that works on the first try (haha, just kidding).

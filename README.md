@@ -24,7 +24,7 @@ When I'm not summoning errors in my code, you’ll find me:
 ## 🌐 Connect With Me
 
 - **LinkedIn**: [hosseinfirouzgan](https://www.linkedin.com/in/hosseinfirouzgan)  
-- **Email**: [hosein802000@gmail.com](mailto:hosein802000@gmail.com)
+- **Email**: [hosseinfirouzgan@gmail.com](mailto:hosseinfirouzgan@gmail.com)
 
 ---
 
